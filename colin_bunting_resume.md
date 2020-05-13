@@ -39,7 +39,7 @@ CATIA V5, SolidWorks, Autodesk Fusion 360, 3D Printing, Altair HyperMesh, Strata
 
 #### Design
 
-Foundry MODO, Blender, Adobe Photoshop, Illustrator & After Effects
+Foundry MODO, Blender, Adobe Photoshop CS6, Adobe Illustrator CS5, Adobe After Effects
 
 #### Personal Interests
 
