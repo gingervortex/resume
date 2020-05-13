@@ -2,7 +2,7 @@
 
 203-606-3074 [colinkbunting@gmail.com](mailto:colinkbunting@gmail.com) 323 Alden Ave, New Haven, CT 06515
 
-blorp
+![](https://media.giphy.com/media/xT8qAY7e9If38xkrIY/source.gif)
 
 # Profile
 
