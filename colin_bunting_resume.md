@@ -2,6 +2,8 @@
 
 203-606-3074 [colinkbunting@gmail.com](mailto:colinkbunting@gmail.com) 323 Alden Ave, New Haven, CT 06515
 
+blorp
+
 # Profile
 
 As an engineer with creative DNA, I think with both sides of the brain. I'm uniquely suited to thrive under pressure, and drive small technical teams to deliver unique, innovative solutions for unique problems.
