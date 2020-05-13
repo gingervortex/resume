@@ -1,6 +1,6 @@
-Colin Bunting
+# Colin Bunting
 
-203-606-3074 colinkbunting@gmail.com 323 Alden Ave, New Haven, CT 06515
+203-606-3074 [colinkbunting@gmail.com](mailto:colinkbunting@gmail.com) 323 Alden Ave, New Haven, CT 06515
 
 # Profile
 
