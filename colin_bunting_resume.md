@@ -6,10 +6,6 @@ Colin Bunting
 
 As an engineer with creative DNA, I think with both sides of the brain. I'm uniquely suited to thrive under pressure, and drive small technical teams to deliver unique, innovative solutions for unique problems.
 
-~~I use a deeply creative background to uniquely adapt to whatever challenges are thrown my way. I thrive under pressure, lead small technical teams to meet project milestones, and have a deep curiosity towards just about anything.~~
-
-(all this says is that you lead technical teams toward deadlines, and you are curious)
-
 # Experience
 
 ## Senior Research Scientist • Sikorsky Innovations, Bridgeport CT • 2014-Present
@@ -25,11 +21,6 @@ As an engineer with creative DNA, I think with both sides of the brain. I'm uniq
 * Designed main landing gear system for X2 program, support structure for IR suppression system
 
 # Additional Experience
-
-## Adjunct Professor • Fairfield University • Fairfield, CT • 2016, 2018
-
-* Taught senior level familiarization course of CATIA V5 as a CAD Tool
-* Introduced basic design principles, mechanical part design, surface design, assemblies, sheetmetal design, kinematics
 
 ## 3D Design and Fabrication Animator • Makehaven • New Haven, CT • 2016-2017
 
