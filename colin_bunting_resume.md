@@ -36,16 +36,6 @@ As an engineer with creative DNA, I think with both sides of the brain. I'm uniq
 * Mentored maker community in 3D design using Fusion 360, SolidWorks, and Sketchup, laser cutting, 3D printing
 * Used 3D printers, CNC machine, CNC router, laser cutters, wood shop
 
-## Project Manager, Founder • Capstone Design, Daniel Webster College • Nashua, NH • 2010-2011
-
-* Founded first human-powered vehicle team, competed in ASME’s Human Powered Vehicle Competition
-* Raced a human powered vehicle in competition at Indianapolis Motor Speedway
-
-## Project Manager • Design-Build-Fly Competition, Daniel Webster College • Nashua, NH • 2009-2010
-
-* Managed multi-school team of 30 students
-* Participated in the design, build and testing of a mission-oriented R/C aircraft
-
 # Education
 
 Daniel Webster College, Nashua, New Hampshire — B.S. in Aeronautical Engineering, 2011
