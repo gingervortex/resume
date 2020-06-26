@@ -1,4 +1,5 @@
-![CBunting_HeaderType](C:\Users\slick\Downloads\CBunting_HeaderType.png)
+
+<img src='https://raw.githubusercontent.com/gingervortex/resume/master/CBunting_HeaderType.png' alt="Colin Bunting" height='50'>
 
 <div style="text-align:center">37 Barnett St, Apt 1, New Haven, CT 06515 </div>
 
