@@ -1,4 +1,4 @@
-![Jeremy Bunting](C:\Users\slick\Downloads\cbk2ckbheader2.png)
+https://raw.githubusercontent.com/gingervortex/resume/master/CBunting_HeaderType.png?token=AH3UO2Y6K2FYBY6XH67ICGC66YPXG
 
 37 Barnett St, Apt 1, New Haven, CT 06515  
 203.606.3074 • [hello@colinbunting.com](mailto:hello@colinbunting.com)
