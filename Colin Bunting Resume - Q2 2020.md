@@ -45,4 +45,18 @@ Summer and Winter Breaks: 2007 - 2011
 
 ### Skills
 
-Extensive experience with CATIA V5, HyperMesh MODO, Fusion 360, SolidWorks, Blender, OnShape, Stratasys Insight, PrusaSlicer, Mathcad. Strong research, sketching, conceptual, presentation, management and communication skills. Also skilled with wood and metal fabrication, laser cutting, metal machining, Linux command line, Python, MacOS, Adobe Creative Suite, LabView, Fluent
+Extensive experience with CATIA V5, HyperMesh MODO, Fusion 360, SolidWorks, Blender, OnShape, Stratasys Insight, PrusaSlicer, Mathcad. Strong research, sketching, conceptual, presentation, management and communication skills. Also skilled with wood and metal fabrication, laser cutting, metal machining, Linux command line, Python, MacOS, Adobe Creative Suite, LabView
+
+### Awards
+
+2017 Sikorsky Flight Award
+
+2015 Sikorsky Special Recognition Award
+
+2011 ASME Human Powered Vehicle - Men’s Speed Class - Sprint - Third Place
+
+2011 Engineering Advisory Board - President
+
+2010 DWC-UMASS Lowell Design-Build-Fly Team - Project Manager
+
+2007 Sikorsky Aircraft Intern Design Competition - First Place
