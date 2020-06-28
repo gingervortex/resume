@@ -3,7 +3,7 @@
 
 203.606.3074 &bull; hello@colinbunting.com
 
-### About
+About
 
 I am passionate about tackling innovative, impactful products. I like to pull from both my childhood with two metalsmith parents and my formal education in aeronautical engineering to design elegant products that move us forward. I thrive under pressure, lead design teams to exceed project goals, and am relentlessly incorporating bleeding edge technology to improve my workflow. Let's open the next chapter and build something awe-inspiring together!
 
