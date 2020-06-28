@@ -47,7 +47,7 @@ Summer and Winter Breaks: 2007 - 2011
 
 **Daniel Webster College, Nashua, NH** - Bachelor of Science Degree in Aeronautical Engineering 2011
 
-ABET-Accredited, ​[CDIO Initiative](http://www.cdio.org/cdio-history)​ degree program emphasizing hands-on implementation inaddition to standard course work.
+ABET-Accredited, [CDIO Initiative](http://www.cdio.org/cdio-history) degree program emphasizing hands-on implementation inaddition to standard course work.
 
 ### Skills
 
