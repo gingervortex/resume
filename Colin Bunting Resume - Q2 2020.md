@@ -48,7 +48,7 @@ ABET-Accredited, ​CDIO Initiative​ degree program emphasizing hands-on imple
 
 ### Skills
 
-Extensive experience with CATIA V5, MODO, Fusion 360, OnShape, SolidWorks, Blender, HyperMesh, Stratasys Insight, PrusaSlicer, Mathcad. Also skilled with wood and metal fabrication, laser cutting, metal machining, Linux command line, Python, MacOS, Adobe Creative Suite, LabView. Strong research, sketching, conceptual, presentation, management and communication skills.
+Extensive experience with CATIA V5, MODO, Fusion 360, OnShape, SolidWorks, Blender, Unreal Engine, VR/AR, HyperMesh, Stratasys Insight, PrusaSlicer, Mathcad. Also skilled with wood and metal fabrication, laser cutting, metal machining, Linux command line, Python, MacOS, Adobe Creative Suite, LabView. Strong research, sketching, conceptual, presentation, management and communication skills.
 
 ### Awards
 
