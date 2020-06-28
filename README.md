@@ -1,2 +1,2 @@
 # resume
-This is my _professional_ resume
+Colin Bunting's Resume
