@@ -1,6 +1,6 @@
 <img src='https://raw.githubusercontent.com/gingervortex/resume/master/CBunting_HeaderType.png'>
 37 Barnett St, Apt 1, New Haven, CT 06515  
-203.606.3074 • [hello@colinbunting.com](mailto:hello@colinbunting.com)
+203.606.3074 &bull hello@colinbunting.com
 
 ### About
 
