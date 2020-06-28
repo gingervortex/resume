@@ -6,10 +6,6 @@
 
 I am passionate about tackling innovative, impactful products. I like to pull from both my childhood with two metalsmith parents and my formal education in aeronautical engineering to design elegant products that move us forward. I thrive under pressure, lead design teams to exceed project goals, and am relentlessly incorporating bleeding edge technology to improve my workflow. Let's open the next chapter and build something awe-inspiring together!
 
-### Education
-
-Daniel Webster College, Nashua, NH - Bachelor of Science Degree in Aeronautical Engineering 2011, Dean's List
-
 ### Experience
 
 **Senior Research Scientist, Special Projects, Sikorsky Aircraft - Bridgeport, CT**
