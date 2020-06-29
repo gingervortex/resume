@@ -13,7 +13,7 @@ I am passionate about tackling innovative, impactful products. I like to pull fr
 
 Jun. 2015 - Present
 
-- Designed and collaborated on multiple major classified programs with significant budgets
+- Designed and collaborated on multiple classified programs with significant budgets
   
 - Used CATIA advanced surfacing for vehicle design, IR and RF design efforts
   
